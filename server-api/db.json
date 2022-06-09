@@ -1,3 +1,24 @@
 {
-  "contacts": []
+  "contacts": [
+    {
+      "id": "15771510-0411-47be-917b-25b1ff82dae5",
+      "name": "Rajnikant dash",
+      "email": "rajnikant@gmail.com"
+    },
+    {
+      "id": "f2dac501-c70d-4dd0-95d6-e804d12d446e",
+      "name": "Samikhsha",
+      "email": "sam@gmail.com"
+    },
+    {
+      "id": "97be6c90-dd4f-4683-b808-bf690d2df443",
+      "name": "Pransh",
+      "email": "pransh@yahoomail.com"
+    },
+    {
+      "id": "09fbac1d-1b00-4265-ac37-3b2146bf848a",
+      "name": "Abhigyan",
+      "email": "gyan@pornhub.com"
+    }
+  ]
 }
